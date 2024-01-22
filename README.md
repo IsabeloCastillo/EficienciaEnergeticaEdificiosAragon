@@ -4,6 +4,8 @@
 
 Este dataset, generosamente proporcionado por [OpenData Aragón](https://opendata.aragon.es/), ofrece una visión exhaustiva sobre la eficiencia energética y las emisiones de CO2 de los edificios en la región. Es una herramienta invaluable para estudiantes, investigadores y profesionales interesados en el desarrollo de políticas y estudios sobre sostenibilidad.
 
+##### Si encuentras este dataset útil, por favor, apoya con un 👍.
+
 ## Descripción General
 El análisis de este dataset permite obtener insights valiosos sobre el consumo energético y las emisiones de CO2 en edificios, ofreciendo una base sólida para el desarrollo de modelos predictivos y estrategias de optimización de recursos.
 
